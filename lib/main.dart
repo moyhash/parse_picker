@@ -67,7 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
               height: 16,
             ),
             const Center(
-              child: Text('Flutter on Back4app * Save File',
+              child: Text('Flutter on Back4app Save File',
                   style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
             ),
             const SizedBox(
